@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Inter&family=Playfair+Display:ital,wght@0,400;1,500&family=Poppins:wght@300;400;800&display=swap');
+
+body {
+    background: linear-gradient(179.39deg, rgba(215, 127, 230, 0.45) 0.41%, rgba(255, 255, 255, 0) 76.5%);
+    background-repeat: no-repeat;
+}
+
+nav {
+    margin-top: 25px;
+}
+
+.navbar-nav a {
+    display: block;
+    padding: 0 50px;
+    padding-right: 50px;
+}
+
+.navbar-brand {
+font-size: 40;
+font-family: 'Acme', sans-serif;
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 60;
+    text-align: center;
+    padding-top: 65px;
+}
+
+h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    color: #82498C;
+    padding-top: 65px;
+    font-size: 20px;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    width: 720px;
+    font-size: 16px;
+    padding-top: 25px;
+}
+
+h3 {
+    padding-top: 20px;
+}
+
+
+.btn-start {
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    width: 120px;
+    height: 40px;
+    border-radius: 15px;
+    background:#BA68C8;
+    color: #fff;
+    border: #C65FD8;
+    text-decoration: none;
+    
+}
+
+img {
+    padding-top: 25px;
+}
+
+.form1 {
+    width: 180px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+label {
+    font-family: "poppins", sans-serif;
+    font-size: 17px;
+    padding-bottom: 10px;
+}
